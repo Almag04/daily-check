@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+main{
+    display: inline-block;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+header .navbar{
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+
+}

@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+
+header{
+    text-align: center;
+
+    display: inline-block;
+    align-items: center;
+}
+.form-control{
+    width: 100px;
+}
